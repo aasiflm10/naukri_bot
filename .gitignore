@@ -1,0 +1,14 @@
+# Secrets — never commit these
+.env
+service-account-key.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+
+# Playwright
+test-results/
+playwright-report/
